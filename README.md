@@ -1,6 +1,4 @@
-# AR Notepad, Look-it
-
-이 레포지토리는 "기계설비 기반 SW 융합인적자원 생태계 조성사업"의 지원을 받아 진행한 연구과제임을 알립니다.
+# P2P IoT Hub, for PathHack 2022
 
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
