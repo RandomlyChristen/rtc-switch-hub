@@ -1,0 +1,24 @@
+.video_container {
+    width: 60%;
+    background-color: cornsilk;
+}
+.video {
+    position: absolute;
+    margin-top: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 60vw;
+    /*width: 100%;*/
+}
+
+@media (max-width: 750px) {
+    .video_container {
+        width: 100%;
+    }
+    .video {
+        margin-top: 0;
+        position: relative;
+        transform: translateY(0);
+        width: 100%;
+    }
+}

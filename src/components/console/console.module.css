@@ -1,0 +1,46 @@
+.console_wrap {
+    display: flex;
+}
+
+.device_wrap {
+    width: 40%;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    background-color: lavender;
+}
+
+.device_title {
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+.device_ids {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+
+.device_id {
+    border-bottom: 2px solid white;
+    color: #333;
+}
+
+@media (max-width: 750px) {
+    .console_wrap {
+        flex-direction: column;
+    }
+    .device_wrap {
+        width: 100%;
+    }
+}
